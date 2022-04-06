@@ -1,0 +1,6 @@
+framework module jasper_driver_platform_plugin {
+  umbrella header "jasper_driver_platform_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
